@@ -1,0 +1,48 @@
+.advertising-call{
+    background-image: url('../img/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 60vh;
+    
+    box-shadow: inset 0 0 150rem black;
+    background-size: cover;
+    padding: 2rem 0;
+    position: relative;
+    }
+
+.advertising{
+    position: absolute;
+    top: 280px;
+    left: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 2rem;
+}
+
+.title-advertising{
+     
+     font-weight: 600;
+     color: #fff;
+     font-size: 3.5rem;
+     line-height: 3.5rem;
+    }
+
+ .description-advertising{
+     
+     font-weight: 600;
+     font-size: 1.6rem;
+     line-height: 1.5rem;
+     color: #fff
+     }
+
+ .button{
+     background: #2A7AE4;
+     width: 130px;
+     height: 51px;
+     
+     font-weight: 400;
+     color: #fff;
+     border: none;
+     }

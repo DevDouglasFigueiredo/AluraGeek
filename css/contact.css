@@ -1,0 +1,28 @@
+.contact{
+    background-color: #EAF2FD;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4rem 1rem;
+    
+}
+
+.submit{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.contac-link{
+    list-style: none;
+    
+    margin-bottom: 1rem;
+}
+
+.contac-link a {
+    text-decoration: none;
+}
+
+textarea{
+    font-family: 'Raleway', sans-serif;
+}

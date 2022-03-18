@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #E5E5E5;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+   
+    padding: 5rem 9.5rem 2rem 9.5rem ;
+    
+}
